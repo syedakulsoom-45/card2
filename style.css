@@ -1,0 +1,30 @@
+table{
+    border-top: 2px solid;
+    border-bottom: 1px solid;
+    width: 50%;
+    margin: auto;
+    height: 40px;
+}
+   
+
+.a{
+   width: 100px;
+   color: red;
+}
+
+.b{ width: 100px;}
+ 
+
+.c{ width: 100px;
+}
+
+.d{ width: 100px;              
+}
+
+.e{ width: 100px;
+ }
+ .f{
+    margin-left: 440px;
+    margin-top: 70px;
+ }
+ pre{ margin-left: 600px;}
